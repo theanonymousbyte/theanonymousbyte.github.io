@@ -1,0 +1,368 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "WMpUMwqNl359CRr6j2AHralvZ5Y",
+    "pageInfo": {
+        "totalResults": 8,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "B2drX5L6w7qrtP3UhQosdNBjFwg",
+            "id": "PLCtORYsKxl3ABZGxxsnehPHY5t56p7VLz",
+            "snippet": {
+                "publishedAt": "2020-03-20T22:19:52Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "Coronavirus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "Coronavirus",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "92ESKGBYdwWodwoFM5KlsK0ML44",
+            "id": "PLCtORYsKxl3AYScdzIN5ENJWsdZsK0Vec",
+            "snippet": {
+                "publishedAt": "2020-02-10T23:32:25Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "SatSriAkal! TV",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "SatSriAkal! TV",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "BISEEkuOgq7bVA3bUoS4SDlcyVA",
+            "id": "PLCtORYsKxl3CFjEpT_uZC22HwTfHzpmMJ",
+            "snippet": {
+                "publishedAt": "2019-12-12T15:30:24Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "Worthless Woman",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ouKPsGCKuI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ouKPsGCKuI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ouKPsGCKuI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2ouKPsGCKuI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2ouKPsGCKuI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "Worthless Woman",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Hj4JbXyHIMSQo1GNq2mBl0Jsj5U",
+            "id": "PLCtORYsKxl3Btw2hyBW4huAt9jy1EjsSm",
+            "snippet": {
+                "publishedAt": "2019-11-21T01:16:53Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "SatSriAkal! Bollywood",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/66S2_HgZdJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/66S2_HgZdJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/66S2_HgZdJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/66S2_HgZdJU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/66S2_HgZdJU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "SatSriAkal! Bollywood",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4oOV8WXpFfc4q33HR0-QmSqee_c",
+            "id": "PLCtORYsKxl3DJ_TPozmqfVdihOR2-Hiqm",
+            "snippet": {
+                "publishedAt": "2018-08-21T13:48:50Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "Kahaniyan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_LPNa6s_U7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_LPNa6s_U7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_LPNa6s_U7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_LPNa6s_U7I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_LPNa6s_U7I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "Kahaniyan",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "-Ae0mL-hjP0CoKvSwAVVzXwgJKA",
+            "id": "PLCtORYsKxl3Cl2qJgzJsz1XEHagNcfISu",
+            "snippet": {
+                "publishedAt": "2018-08-20T14:18:06Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "Kaoh Peoh",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "Kaoh Peoh",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nyAnxKM0-xXeNSt3E7JebOzqAEQ",
+            "id": "PLCtORYsKxl3BcSwO83BPwwEbtHntxMrtD",
+            "snippet": {
+                "publishedAt": "2018-08-13T16:05:35Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "The Talent",
+                "description": "The Talent is a series through which talented British Punjabi's will share their skills with you. Look out for: Punjabi hairstyles tutorials, bhangra routines, mendhi, singing and much more exciting performances and tutorials!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U7uT5A7MJ_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U7uT5A7MJ_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U7uT5A7MJ_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U7uT5A7MJ_I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U7uT5A7MJ_I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "The Talent",
+                    "description": "The Talent is a series through which talented British Punjabi's will share their skills with you. Look out for: Punjabi hairstyles tutorials, bhangra routines, mendhi, singing and much more exciting performances and tutorials!"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4wLlXdAvPOrMJocYZmZxfo9j9w4",
+            "id": "PLCtORYsKxl3BPIUd42jSaFd09MRDDO7Gv",
+            "snippet": {
+                "publishedAt": "2018-08-11T12:38:47Z",
+                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
+                "title": "Idents",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KoiSlQpPXDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KoiSlQpPXDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KoiSlQpPXDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KoiSlQpPXDk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KoiSlQpPXDk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SatSriAkal! TV",
+                "localized": {
+                    "title": "Idents",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        }
+    ]
+}

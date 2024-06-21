@@ -5,7 +5,7 @@
     "news_heading": "Coastal Town Rocked by Earthquake",
     "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
     "details": "The earthquake occurred early this morning, causing panic among residents. Several buildings have collapsed or suffered severe damage, and emergency services are on high alert.",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-OCruedPfeAHs-z1bGOL3tFyt8Rls61h8xnhHvzHCcg=s800-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
     "videoID": "xyz789",
     "category": "Natural Disasters",
     "tags": [
@@ -16,8 +16,8 @@
     ],
     "author": "John Smith",
     "related_news_links": [
-      "https://example.com/earthquake-impact",
-      "https://example.com/earthquake-preparedness"
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "news_heading": "Prime Minister Resigns Over Scandal",
     "summary": "The Prime Minister has resigned following allegations of corruption and misuse of power.",
     "details": "The resignation comes after weeks of political unrest and protests demanding accountability. The government is now in turmoil as the country braces for further developments.",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-OCruedPfeAHs-z1bGOL3tFyt8Rls61h8xnhHvzHCcg=s800-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
     "videoID": "uvw456",
     "category": "Politics",
     "tags": [
@@ -37,8 +37,8 @@
     ],
     "author": "Emily Brown",
     "related_news_links": [
-      "https://example.com/political-scandal-details",
-      "https://example.com/political-impact-analysis"
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
   },
   {
@@ -47,7 +47,7 @@
     "news_heading": "Breakthrough in Cancer Research",
     "summary": "Scientists have made a significant breakthrough in cancer research, potentially finding a cure for a previously untreatable form of the disease.",
     "details": "The breakthrough involves a novel therapy that has shown promising results in preclinical trials. Researchers are optimistic about its potential to revolutionize cancer treatment.",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-OCruedPfeAHs-z1bGOL3tFyt8Rls61h8xnhHvzHCcg=s800-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
     "videoID": "123abc",
     "category": "Health",
     "tags": [
@@ -58,8 +58,8 @@
     ],
     "author": "David Johnson",
     "related_news_links": [
-      "https://example.com/cancer-cure-details",
-      "https://example.com/clinical-trial-results"
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
   }
 ]

@@ -61,5 +61,26 @@
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
+  },
+  {
+    "newsID": "news004",
+    "title": "New Breakthrough in Cancer Research: Potential Cure Found",
+    "news_heading": "Breakthrough in Cancer Research",
+    "summary": "Scientists have made a significant breakthrough in cancer research, potentially finding a cure for a previously untreatable form of the disease.",
+    "details": "The breakthrough involves a novel therapy that has shown promising results in preclinical trials. Researchers are optimistic about its potential to revolutionize cancer treatment.",
+    "thumbnail": "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+    "videoID": "123abc",
+    "category": "Health",
+    "tags": [
+      "Cancer",
+      "Research",
+      "Medical Breakthrough",
+      "Healthcare"
+    ],
+    "author": "David Johnson",
+    "related_news_links": [
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
+    ]
   }
 ]

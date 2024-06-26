@@ -8,42 +8,6 @@
     "items": [
         {
             "kind": "youtube#playlist",
-            "etag": "B2drX5L6w7qrtP3UhQosdNBjFwg",
-            "id": "PLCtORYsKxl3ABZGxxsnehPHY5t56p7VLz",
-            "snippet": {
-                "publishedAt": "2020-03-20T22:19:52Z",
-                "channelId": "UCXvhdbsUN1VlYX2yPd3x2Aw",
-                "title": "Coronavirus",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SatSriAkal! TV",
-                "localized": {
-                    "title": "Coronavirus",
-                    "description": ""
-                }
-            },
-            "contentDetails": {
-                "itemCount": 3
-            }
-        },
-        {
-            "kind": "youtube#playlist",
             "etag": "92ESKGBYdwWodwoFM5KlsK0ML44",
             "id": "PLCtORYsKxl3AYScdzIN5ENJWsdZsK0Vec",
             "snippet": {

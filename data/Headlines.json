@@ -1,8 +1,8 @@
 
 [
   {
-    "headlineID": "Headlines000001",
-    "title": "Headline 1",
+    "headlineID": "Headlines000003",
+    "title": "AMERICA, ਭਾਰਤ ਵਿੱਚ PANNUN ਦੇ ਕੇਸ ਨੂੰ ਲੈ ਕੇ ਕਿਹੜੇ INSTITUTIONAL REFORM ਚਾਹੁੰਦਾ ਹੈ ?",
     "news_heading": "This is news heading for headline 1",
     "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
     "details": "The earthquake occurred early this morning, causing panic among residents. Several buildings have collapsed or suffered severe damage, and emergency services are on high alert.",
@@ -15,15 +15,15 @@
       "Disaster",
       "Emergency"
     ],
-    "author": "John Smith",
+    "author": "Baba Jag Singh",
     "related_news_links": [
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
   },
    {
-    "headlineID": "Headlines000002",
-    "title": "Headline 2",
+    "headlineID": "Headlines000004",
+    "title": "ਨਵੇਂ ਬਣੇ MPs ਨੇ ਮਾਰੇ “Hindu Rashtar” ਦੇ ਨਾਹਰੇ। ਕੀ ਸਿੱਖ MP ਵੀ ਮਾਰਨ Khalistan ਦੇ ਨਾਹਰੇ ?",
     "news_heading": "This is news heading for headline 1",
     "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
     "details": "The earthquake occurred early this morning, causing panic among residents. Several buildings have collapsed or suffered severe damage, and emergency services are on high alert.",
@@ -36,7 +36,7 @@
       "Disaster",
       "Emergency"
     ],
-    "author": "John Smith",
+    "author": "Dupinderjit Singh",
     "related_news_links": [
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"

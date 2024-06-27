@@ -1,7 +1,7 @@
 
 [
   {
-    "newsID": "Headlines000001",
+    "headlineID": "Headlines000001",
     "title": "Headline 1",
     "news_heading": "This is news heading for headline 1",
     "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
@@ -22,7 +22,7 @@
     ]
   },
    {
-    "newsID": "Headlines000002",
+    "headlineID": "Headlines000002",
     "title": "Headline 2",
     "news_heading": "This is news heading for headline 1",
     "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",

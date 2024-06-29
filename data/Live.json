@@ -25,33 +25,5 @@
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
-  },
-   {
-    "LiveID": "Live2",
-    "title": "Live title 2",
-    "news_heading": "Live News Headline 2",
-    "summary": "This is summary of Live news Headline 2",
-    "details": "Details of Live news 2",
-    "thumbnail": "https://i.ytimg.com/vi/W-tjHBxgg5M/maxresdefault.jpg",
-    "videoID": "xyz789",
-    "category": "Natural Disasters",
-    "tags": [
-      "Uk",
-      "Politic",
-      "Election",
-      "Vote"
-    ],
-    "Updates": [
-      "This is update at 29 june 2024",
-      "This is update at 30 june 2024",
-      "This is update at 1 july 2024",
-      "This is update at 2 july 2024"
-    ],
-    "author": "Baba Jag Singh",
-    "related_news_links": [
-      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
-      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
-    ]
   }
-  
 ]

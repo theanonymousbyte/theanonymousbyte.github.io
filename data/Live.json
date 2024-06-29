@@ -1,8 +1,8 @@
 [
   {
-    "LiveID": "Live1",
+    "id": "Live1",
     "title": "Live title 1",
-    "news_heading": "Live News Headline 1",
+    "newsHeading": "Live News Headline 1",
     "summary": "This is summary of Live news Headline",
     "details": "Details of Live news 1",
     "thumbnail": "https://i.ytimg.com/vi/W-tjHBxgg5M/maxresdefault.jpg",
@@ -14,14 +14,14 @@
       "Election",
       "Vote"
     ],
-    "Updates": [
+    "updates": [
       "This is update at 29 june 2024",
       "This is update at 30 june 2024",
       "This is update at 1 july 2024",
       "This is update at 2 july 2024"
     ],
     "author": "Baba Jag Singh",
-    "related_news_links": [
+    "relatedNewsLinks": [
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]

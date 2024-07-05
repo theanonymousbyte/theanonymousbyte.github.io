@@ -25,5 +25,30 @@
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
       "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
     ]
+  },
+  {
+    "id": "UKelectionsUpdate1",
+    "title": "Uk Election live update",
+    "newsHeading": "Uk Election live update heading",
+    "summary": "Uk Election live update summary",
+    "details": "Details of Live news 1",
+    "thumbnail": "https://i.ytimg.com/vi/W-tjHBxgg5M/maxresdefault.jpg",
+    "videoID": "xyz789",
+    "category": "UK elections",
+    "tags": [
+      "Uk",
+      "Politic",
+      "Election",
+      "Vote"
+    ],
+    "updates": [
+      "Uk election called ",
+      "Labour win Uk election",
+    ],
+    "author": "Sati Singh",
+    "relatedNewsLinks": [
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
+    ]
   }
 ]

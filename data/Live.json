@@ -27,8 +27,8 @@
     ]
   },
   {
-    "id": "UKelectionsUpdate1",
-    "title": "Uk Election live update",
+    "id": "UKElectionsUpdate1",
+    "title": "Uk Election live update Who will with the election?",
     "newsHeading": "Uk Election live update heading",
     "summary": "Uk Election live update summary",
     "details": "Details of Live news 1",
@@ -43,7 +43,7 @@
     ],
     "updates": [
       "Uk election called ",
-      "Labour win Uk election",
+      "Labour wins Uk election",
     ],
     "author": "Sati Singh",
     "relatedNewsLinks": [

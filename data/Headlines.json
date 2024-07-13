@@ -1,43 +1,23 @@
 [
-    {
-        "headlineID": "Headlines000004",
-        "title": "\u0a28\u0a35\u0a47\u0a02 \u0a2c\u0a23\u0a47 MPs \u0a28\u0a47 \u0a2e\u0a3e\u0a30\u0a47 \u201cHindu Rashtar\u201d \u0a26\u0a47 \u0a28\u0a3e\u0a39\u0a30\u0a47\u0964 \u0a15\u0a40 \u0a38\u0a3f\u0a71\u0a16 MP \u0a35\u0a40 \u0a2e\u0a3e\u0a30\u0a28 Khalistan \u0a26\u0a47 \u0a28\u0a3e\u0a39\u0a30\u0a47 ?",
-        "news_heading": "This is news heading for headline 1",
-        "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
-        "details": "The earthquake occurred early this morning, causing panic among residents. Several buildings have collapsed or suffered severe damage, and emergency services are on high alert.",
-        "thumbnail": "https://i.ytimg.com/vi/sMDQKaJ8utE/maxresdefault.jpg",
-        "videoID": "xyz789",
-        "category": "Natural Disasters",
-        "tags": [
-            "Earthquake",
-            "Coastal",
-            "Disaster",
-            "Emergency"
-        ],
-        "author": "Dupinderjit Singh",
-        "related_news_links": [
-            "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
-            "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
-        ]
-    },
-    {
-        "headlineID": "Headlines000005",
-        "title": "this is Title to show bhoti that my app is working",
-        "news_heading": "This is news heading for headline 1",
-        "summary": "This is Summary",
-        "details": "This is details ",
-        "thumbnail": "https://i.ytimg.com/vi/W-tjHBxgg5M/maxresdefault.jpg",
-        "videoID": "xyz789new",
-        "category": "Natural Disasters",
-        "tags": [
-            "Earthquake",
-            "Coastal",
-            "Disaster",
-            "Emergency"
-        ],
-        "author": "Mr Singh",
-        "related_news_links": [
-            "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
-        ]
-    }
+   {
+    "headlineID": "Headlines000004",
+    "title": "ਨਵੇਂ ਬਣੇ MPs ਨੇ ਮਾਰੇ “Hindu Rashtar” ਦੇ ਨਾਹਰੇ। ਕੀ ਸਿੱਖ MP ਵੀ ਮਾਰਨ Khalistan ਦੇ ਨਾਹਰੇ ?",
+    "news_heading": "This is news heading for headline 1",
+    "summary": "An earthquake measuring 6.5 on the Richter scale struck a coastal town, causing significant damage to buildings.",
+    "details": "The earthquake occurred early this morning, causing panic among residents. Several buildings have collapsed or suffered severe damage, and emergency services are on high alert.",
+    "thumbnail": "https://i.ytimg.com/vi/sMDQKaJ8utE/maxresdefault.jpg",
+    "videoID": "xyz789",
+    "category": "Natural Disasters",
+    "tags": [
+      "Earthquake",
+      "Coastal",
+      "Disaster",
+      "Emergency"
+    ],
+    "author": "Dupinderjit Singh",
+    "related_news_links": [
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
+    ]
+  }
 ]

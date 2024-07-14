@@ -1,5 +1,5 @@
-[
-    {
+{
+    "0": {
         "headlineID": "Headlines000004",
         "title": "ਨਵੇਂ ਬਣੇ MPs ਨੇ ਮਾਰੇ “Hindu Rashtar” ਦੇ ਨਾਹਰੇ। ਕੀ ਸਿੱਖ MP ਵੀ ਮਾਰਨ Khalistan ਦੇ ਨਾਹਰੇ ?",
         "news_heading": "This is news heading for headline 1",
@@ -20,27 +20,7 @@
             "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
         ]
     },
-    {
-        "headlineID": "Headlines000003",
-        "title": "This is title",
-        "news_heading": "This is news heading for headline 1",
-        "summary": "This is summary",
-        "details": "This is section for details",
-        "thumbnail": "https://i.ytimg.com/vi/W-tjHBxgg5M/maxresdefault.jpg",
-        "videoID": "VidID00001",
-        "category": "Headlines",
-        "tags": [
-            "Earthquake",
-            "Coastal",
-            "Disaster",
-            "Emergency"
-        ],
-        "author": "Mr Singh",
-        "related_news_links": [
-            "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
-        ]
-    },
-    {
+    "2": {
         "headlineID": "Headlines000004",
         "title": "ਨਵੇਂ ਬਣੇ MPs ਨੇ ਮਾਰੇ “Hindu Rashtar” ਦੇ ਨਾਹਰੇ। ਕੀ ਸਿੱਖ MP ਵੀ ਮਾਰਨ Khalistan ਦੇ ਨਾਹਰੇ ?",
         "news_heading": "This is news heading for headline 1",
@@ -61,9 +41,9 @@
             "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
         ]
     },
-    {
-        "headlineID": "Headlines000003",
-        "title": "This is title",
+    "3": {
+        "headlineID": "Headlines000005",
+        "title": "This is title updated",
         "news_heading": "This is news heading for headline 1",
         "summary": "This is summary",
         "details": "This is section for details",
@@ -81,4 +61,4 @@
             "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
         ]
     }
-]
+}

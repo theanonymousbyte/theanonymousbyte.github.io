@@ -19,5 +19,22 @@
             "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg",
             "https://i.ytimg.com/vi/9YIYeQX1Z98/maxresdefault.jpg"
         ]
+    },
+    {
+        "headlineID": "Headlines000002",
+        "title": null,
+        "news_heading": null,
+        "summary": null,
+        "details": null,
+        "thumbnail": null,
+        "videoID": null,
+        "category": null,
+        "tags": [
+            ""
+        ],
+        "author": null,
+        "related_news_links": [
+            ""
+        ]
     }
 ]
